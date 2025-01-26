@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=false&theme=github_dark&count_private=true" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=github_dark" alt="Top Languages" height="180px">
 </div>
 
