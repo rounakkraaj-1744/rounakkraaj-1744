@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rounakk Raaj Sabat</h1>
+<h1 align="center">Hi there, I'm Rounakk Raaj Sabat 👋</h1>
 
 <p align="center">
   <b>✨ Full Stack Developer | Problem Solver | Blockchain & Cybersecurity Enthusiast ✨</b>
@@ -10,11 +10,11 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently building **full-stack applications** with **Next.js**, **NestJS**, **Express.js**, and **TypeScript**.
-- 🌱 Deep diving into **NestJS**, **Blockchain**, and mastering **DevOps** tools like Docker, Kubernetes, and AWS.
+## 🧑‍💻 About Me
+- 🔭 Currently working on **full-stack applications** with **Next.js**, **NestJS**, **Express.js**, and **TypeScript**.
+- 🌱 Learning **NestJS**, **Blockchain**, and advancing my knowledge of **DevOps** tools and practices.
 - 🤝 Actively contributing to **open source projects** and freelancing on **Fiverr**.
-- 🎭 Fun fact: I'm a **traveler**, **ghost hunter**, and **fitness enthusiast** who loves exploring new tech tools!
+- 🎭 Fun fact: I'm a **traveler**, **ghost hunter**, and **fitness enthusiast** who loves diving deep into tech tools!
 
 ---
 
@@ -40,24 +40,21 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=radical" alt="Top Languages" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=github_dark" alt="Top Languages" height="180px">
 </div>
 
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rounakkraaj-1744&theme=github-dark" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rounakkraaj-1744&theme=react-dark" alt="GitHub Contribution Graph">
 </div>
 
 ---
 
 ## 🌐 Connect with Me
-
 <div align="center">
   <a href="https://linkedin.com/in/rounakk-raaj-745rrs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -68,9 +65,6 @@
   <a href="https://www.fiverr.com/rounakk_raaj" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </div>
 
 ---
@@ -79,6 +73,5 @@
   <img src="https://komarev.com/ghpvc/?username=rounakkraaj-1744&style=flat-square&color=blueviolet" alt="Profile Views">
 </div>
 
-<p align="center">
-  <b>Let's build something amazing together! 🚀</b>
-</p>
+
+this is my github account showcase readme. make it even more modern, stylish, vibrant and attractive
