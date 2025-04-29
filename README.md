@@ -1,63 +1,47 @@
-<h1 align="center">👋 Hi, I'm Rounakk Raaj Sabat</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#FFA500">Rounakk Raaj Sabat</span></h1>
 
 <p align="center">
-  <b>✨ Full Stack Developer | Problem Solver | Blockchain & Cybersecurity Enthusiast ✨</b>
+  <b>🚀 Full Stack Developer | Cloud-Native Builder | GenAI & Cybersecurity Explorer</b>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=Crafting+Scalable+Web+Solutions;Mastering+NestJS%2C+Cloud+%26+Blockchain;Open+Source+Contributor+%7C+Freelancer+%7C+Traveler" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6F00&center=true&vCenter=true&width=1000&lines=Scalable+App+Architectures+with+Next.js+%26+NestJS;System+Programming+%7C+Rust+%7C+Cloud+%7C+DevOps;Open+Source+%7C+Fiverr+Freelancer+%7C+TechTuskers+Hacker" alt="Typing SVG">
 </div>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **full-stack applications** with **Next.js**, **NestJS**, **Express.js**, and **TypeScript**.
-- 🌱 Deep diving into **NestJS**, **Blockchain**, and mastering **DevOps** tools like Docker, Kubernetes, and AWS.
-- 🤝 Actively contributing to **open source projects** and freelancing on **Fiverr**.
-- 🎭 Fun fact: I'm a **traveler**, **ghost hunter**, and **fitness enthusiast** who loves exploring new tech tools!
+- 🧩 Building robust full-stack apps with **Next.js**, **NestJS**, **Express.js**, and **TypeScript**
+- 🧠 Exploring **Rust**, **System Design**, and **Generative AI** for real-world applications
+- 🌐 Contributing to **open source**, delivering on **Fiverr**, and building impact with **TechTuskers**
+- 🔐 Deep-diving into **Cybersecurity** and tinkering with **Blockchain** tech
+- 🎭 Off-duty: I travel, ghost hunt 👻, and lift 🏋️‍♂️ while exploring bleeding-edge tech
 
 ---
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,express,postgres,mongodb,docker,kubernetes,aws,rust" alt="Tech Stack" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
+## 📈 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=radical" alt="Top Languages" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px">
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
+## 📊 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rounakkraaj-1744&theme=github-dark" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rounakkraaj-1744&theme=tokyo-night&area=true" alt="Contribution Graph">
 </div>
 
 ---
 
-## 🌐 Connect with Me
-
+## 🌐 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/rounakk-raaj-745rrs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -80,5 +64,5 @@
 </div>
 
 <p align="center">
-  <b>Let's build something amazing together! 🚀</b>
+  <b>Let's architect the future — one commit at a time. 🚀</b>
 </p>
