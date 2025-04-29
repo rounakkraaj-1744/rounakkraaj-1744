@@ -13,7 +13,7 @@
 ## 🚀 About Me
 - 🧩 Building robust full-stack apps with **Next.js**, **NestJS**, **Express.js**, and **TypeScript**
 - 🧠 Exploring **Rust**, **System Design**, and **Generative AI** for real-world applications
-- 🌐 Contributing to **open source**, delivering on **Fiverr**, and building impact with **TechTuskers**
+- 🌐 Contributing to **open source** and building impactful products
 - 🔐 Deep-diving into **Cybersecurity** and tinkering with **Blockchain** tech
 - 🎭 Off-duty: I travel, ghost hunt 👻, and lift 🏋️‍♂️ while exploring bleeding-edge tech
 
