@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FFA500">Rounakk Raaj Sabat</span></h1>
 
 <p align="center">
-  <b>🚀 Full Stack Developer | Low Latency Programmer | GenAI Developer | Blockchain Enthusiast</b>
+  <b>🚀 Full Stack Development | Low Latency Programming | Cloud and DevOps | GenAI | Problem Solving</b>
 </p>
 
 <div align="center">
