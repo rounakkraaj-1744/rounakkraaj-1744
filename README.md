@@ -37,6 +37,14 @@
 
 ---
 
+## 🧠 GitHub Badges & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rounakkraaj-1744&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/rounakk-raaj-745rrs" target="_blank">
