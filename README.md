@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,express,postgres,mongodb,docker,kubernetes,aws,rust" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,express,node,postgres,mongodb,docker,kubernetes,aws,rust,python" alt="Tech Stack" />
 </div>
 
 ---
