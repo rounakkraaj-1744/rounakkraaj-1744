@@ -1,10 +1,14 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hey, I'm <span style="color:#FFA500;">Rounakk Raaj Sabat</span>
+  Hey, I'm <span style="color:#FFA500;">Rounakk Raaj Sabat</span> 🚀
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Rustacean+%7C+Cloud+Native+Explorer;Builder+%7C+Tinkerer+%7C+Creator;Learning%2C+Breaking%2C+Building;Open+to+Collabs+%7C+Let%27s+Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Rustacean+%7C+Cloud+Native+Explorer;Builder+%7C+Tinkerer+%7C+Creator;Learning%2C+Breaking%2C+Building;Open+to+Collabs+%7C+Let%27s+Connect" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
 </p>
 
 ---
@@ -75,9 +79,9 @@
 ---
 
 <p align="center">
-  <b>Thank you for stopping by. Let's build something awesome together 🚀</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=FFD700&center=true&vCenter=true&width=1000&lines=Thanks+for+scrolling!;Made+with+💛+by+Rounakk;Let%27s+build+something+awesome+together!" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
 </p>
