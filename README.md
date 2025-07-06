@@ -4,9 +4,9 @@
   Hey there, I'm <span style="color:#FFA500;">Rounakk Raaj Sabat</span> 👋
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer+%7C+System+Designer+%7C+Problem+Solver;⚡+Rustacean+%7C+Cloud+Native+%7C+Low+Latency+Builder;🧠+GenAI+%7C+Cybersecurity+%7C+Blockchain+Explorer" alt="Typing Animation" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,express,postgres,mongodb,docker,kubernetes,aws,rust" alt="Tech Stack" />
+</div>
 
 ---
 
