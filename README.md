@@ -24,7 +24,7 @@
 ## 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,rust,express,postgres,mongodb,docker,kubernetes,aws,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,rust,express,postgres,mongodb,docker,kubernetes,aws,linux,python" />
 </div>
 
 ---
