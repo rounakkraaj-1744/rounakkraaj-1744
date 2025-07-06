@@ -70,5 +70,3 @@
 <p align="center">
   <b>Let's architect the future — one commit at a time. 🚀</b>
 </p>
-
-make this super beautiful, super modern and super stylish.....make it top notch....include everything....add animations
