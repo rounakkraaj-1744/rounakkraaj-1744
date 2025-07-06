@@ -1,87 +1,70 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hey, I'm <span style="color:#FFA500;">Rounakk Raaj Sabat</span> 🚀
-</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#FFA500">Rounakk Raaj Sabat</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Rustacean+%7C+Cloud+Native+Explorer;Builder+%7C+Tinkerer+%7C+Creator;Learning%2C+Breaking%2C+Building;Open+to+Collabs+%7C+Let%27s+Connect" />
+  <b>🚀 Full Stack Development | Low Latency Programming | Cloud and DevOps | GenAI | Problem Solving</b>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
-</p>
-
----
-
-## 🧰 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,rust,react,ts,js,go,java,py,postman,tailwind,linux,git,docker,kubernetes,aws,vercel,figma,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6F00&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+Problem+Solver+%7C+Systems+Design;Low+Latency+Programmer+%7C+Rust+%7C+Cloud+%7C+DevOps;GenAI+%7C+Blockchain+Enthusiast" alt="Typing SVG">
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
+- 🧩 Building robust full-stack apps with **Next.js**, **NestJS**, **Express.js**, and **TypeScript**
+- 🧠 Exploring **Rust**, **System Design**, and **Generative AI** for real-world applications
+- 🌐 Contributing to **open source** and building impactful products
+- 🔐 Deep-diving into **Cybersecurity** and tinkering with **Blockchain** tech
+- 🎭 Off-duty: I travel, ghost hunt 👻, and lift 🏋️‍♂️ while exploring bleeding-edge tech
 
+---
+
+## 🛠️ Tech Stack
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,express,postgres,mongodb,docker,kubernetes,aws,rust" alt="Tech Stack" />
 </div>
 
 ---
 
-## 🔥 Streak & Graph
-
+## 📈 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rounakkraaj-1744&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rounakkraaj-1744&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px">
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 📊 Contribution Graph
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rounakkraaj-1744&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rounakkraaj-1744&theme=tokyo-night&area=true" alt="Contribution Graph">
 </div>
 
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/rounakk-raaj-745rrs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/rounakk_745" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:hi@rounakk.in" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://freelance.rounakk.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.fiverr.com/rounakk_raaj" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-00B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
-</p>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
-## 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rounakkraaj-1744&style=flat-square&color=blueviolet" alt="Profile Views">
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rounakkraaj-1744&style=flat-square&color=blueviolet" />
+  <b>Let's architect the future — one commit at a time. 🚀</b>
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=FFD700&center=true&vCenter=true&width=1000&lines=Thanks+for+scrolling!;Made+with+💛+by+Rounakk;Let%27s+build+something+awesome+together!" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
-</p>
+make this super beautiful, super modern and super stylish.....make it top notch....include everything....add animations
