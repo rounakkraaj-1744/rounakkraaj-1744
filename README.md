@@ -4,9 +4,7 @@
   Hey there, I'm <span style="color:#FFA500;">Rounakk Raaj Sabat</span> 👋
 </h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,express,postgres,mongodb,docker,kubernetes,aws,rust" alt="Tech Stack" />
-</div>
+
 
 ---
 
@@ -24,7 +22,7 @@
 ## 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,rust,express,postgres,mongodb,docker,kubernetes,aws,linux,python" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,java,c,express,postgres,mongodb,docker,kubernetes,aws,rust" alt="Tech Stack" />
 </div>
 
 ---
