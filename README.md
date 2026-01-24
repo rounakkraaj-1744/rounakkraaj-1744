@@ -1,60 +1,61 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FFA500">Rounakk Raaj Sabat</span></h1>
 
 <p align="center">
-  Backend-leaning Full Stack Developer · Systems Thinker · Rust & GenAI Enthusiast
+  Backend-leaning Full Stack Developer · Systems Thinker · Rust & GenAI
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF6F00&center=true&vCenter=true&width=900&lines=Backend+Engineering+%7C+System+Design;Low-Latency+%7C+Rust+%7C+Distributed+Systems;Full+Stack+with+Next.js+%26+NestJS;Building+Real+Products+That+Scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF6F00&center=true&vCenter=true&width=900&lines=Backend+Engineering+%7C+System+Design;Low-Latency+%7C+Rust+%7C+Distributed+Systems;Full+Stack+with+Next.js+%26+NestJS;Building+Products+That+Scale" />
 </div>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **backend-first full stack engineer** focused on building **scalable, low-latency systems** and production-grade applications.
+I’m a **backend-first full stack engineer** who cares more about **how systems behave under load** than shiny UI.
 
-- ⚙️ Strong in **Node.js, NestJS, Express**, and **TypeScript**
-- 🧩 Comfortable designing APIs, auth systems, databases, and async workflows
-- 🦀 Actively exploring **Rust**, **systems programming**, and **performance engineering**
-- 🤖 Building practical **GenAI-powered products**, not demos
-- 🌱 Learning **distributed systems, cloud infra, and fintech fundamentals**
-- 🏋️ Outside code: lifting, traveling, and occasional ghost hunting 👻
+- ⚙️ Build production backends with **Node.js, NestJS, Express, TypeScript**
+- 🧩 Design APIs, auth systems, DB schemas, async workflows
+- 🦀 Exploring **Rust**, systems programming & performance
+- 🤖 Building **GenAI-powered backend systems** (not toy demos)
+- 🌱 Learning **distributed systems, cloud infra, fintech basics**
+- 🏋️ Outside code: lifting, traveling, occasional ghost hunting 👻
 
-I care more about **how things work under the hood** than shiny UI alone.
-
----
-
-## 🛠️ Core Tech Stack
-
-**Backend & Systems**
-- Node.js · NestJS · Express
-- PostgreSQL · MongoDB
-- Redis · Kafka (learning)
-- Rust · C · Java
-
-**Frontend**
-- Next.js · React
-- TypeScript · TailwindCSS
-
-**Infra & DevOps**
-- Docker · Kubernetes (learning)
-- AWS
-- CI/CD fundamentals
-
-**AI / GenAI**
-- LLM APIs · LangChain
-- Backend-first AI integrations
+I optimize for **depth, fundamentals, and long-term leverage**.
 
 ---
 
-## 📌 What I’m Actively Building / Learning
+## 🛠️ Tech Stack
 
-- Scalable backend architectures (auth, queues, concurrency)
-- Low-latency systems & Rust internals
-- GenAI-backed SaaS products
-- Distributed system fundamentals
-- Fintech + backend system design
+### Backend & Systems
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,postgres,mongodb,redis,rust,c,java&perline=6" />
+</div>
+
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&perline=6" />
+</div>
+
+### DevOps & Infra
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,github&perline=6" />
+</div>
+
+### GenAI & Tooling
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python&perline=6" />
+</div>
+
+---
+
+## 📌 What I’m Focused On Right Now
+
+- Backend architecture & scalability
+- Auth, queues, concurrency, background jobs
+- Rust internals & low-latency systems
+- GenAI + backend integrations
+- Distributed systems fundamentals
 
 ---
 
@@ -92,5 +93,5 @@ I care more about **how things work under the hood** than shiny UI alone.
 ---
 
 <p align="center">
-  <b>Obsessed with building systems that don’t break under pressure.</b>
+  <b>Building systems that don’t collapse when reality hits.</b>
 </p>
