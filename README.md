@@ -1,97 +1,119 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#FFA500">Rounakk Raaj Sabat</span></h1>
-
-<p align="center">
-  Backend-leaning Full Stack Developer · Systems Thinker · Rust & GenAI
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF6F00&center=true&vCenter=true&width=900&lines=Backend+Engineering+%7C+System+Design;Low-Latency+%7C+Rust+%7C+Distributed+Systems;Full+Stack+with+Next.js+%26+NestJS;Building+Products+That+Scale" />
+
+# 👋 Hey, I'm Rounakk Raaj Sabat
+
+### Backend Engineer | Systems Thinker | Building for Scale
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Backend+%2B+Systems+Engineering;Rust+%7C+Node.js+%7C+TypeScript;Distributed+Systems+%26+GenAI;Building+Products+That+Scale" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rounakk-raaj-745rrs)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/rounakk_745)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-00B22D?style=flat&logo=fiverr)](https://www.fiverr.com/rounakk_raaj)
+
 </div>
 
 ---
 
-## 🧠 About Me
+## 🎯 What I Do
 
-I’m a **backend-first full stack engineer** who cares more about **how systems behave under load** than shiny UI.
+I'm a **backend-first full stack engineer** obsessed with building systems that work under pressure. I care deeply about **performance, scalability, and clean architecture** — the kind of engineering that matters when things get real.
 
-- ⚙️ Build production backends with **Node.js, NestJS, Express, TypeScript**
-- 🧩 Design APIs, auth systems, DB schemas, async workflows
-- 🦀 Exploring **Rust**, systems programming & performance
-- 🤖 Building **GenAI-powered backend systems** (not toy demos)
-- 🌱 Learning **distributed systems, cloud infra, fintech basics**
-- 🏋️ Outside code: lifting, traveling, occasional ghost hunting 👻
+```typescript
+const rounakk = {
+  focus: ["Backend Architecture", "System Design", "Performance Optimization"],
+  currentlyLearning: ["Rust Internals", "Distributed Systems", "Fintech Infrastructure"],
+  workingOn: ["GenAI-powered backends", "Low-latency systems", "Scalable APIs"],
+  hobbies: ["Lifting weights", "Traveling", "Ghost hunting 👻"]
+};
+```
 
-I optimize for **depth, fundamentals, and long-term leverage**.
+**Core Philosophy:** Build systems that don't collapse when reality hits.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### Frontend & DevOps
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 What I'm Deep-Diving Into
+
+<details open>
+<summary><b>🔥 Current Focus Areas</b></summary>
+<br>
+
+- **Backend Architecture:** Designing APIs, auth systems, DB schemas, async workflows
+- **Performance Engineering:** Low-latency systems, concurrency patterns, background job processing
+- **Systems Programming:** Rust internals, memory management, zero-cost abstractions
+- **Distributed Systems:** Consistency models, fault tolerance, distributed consensus
+- **GenAI Integration:** Building production-grade AI-powered backend systems (no toys)
+- **Fintech Fundamentals:** Payment systems, transaction processing, compliance basics
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,postgres,mongodb,redis,rust,c,java&perline=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rounakkraaj-1744&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
-### Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&perline=6" />
-</div>
-
-### DevOps & Infra
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,github&perline=6" />
-</div>
-
-### GenAI & Tooling
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-## 📌 What I’m Focused On Right Now
+## 💼 Let's Build Together
 
-- Backend architecture & scalability
-- Auth, queues, concurrency, background jobs
-- Rust internals & low-latency systems
-- GenAI + backend integrations
-- Distributed systems fundamentals
+I'm always interested in challenging backend problems, system design discussions, and opportunities to build something that scales.
+
+- 💬 Ask me about **backend architecture, system design, or Rust**
+- 🤝 Open to collaborating on **open-source projects** and **interesting problems**
+- 📧 Reach out on [LinkedIn](https://linkedin.com/in/rounakk-raaj-745rrs) or [Twitter](https://twitter.com/rounakk_745)
+- 💼 Available for freelance work on [Fiverr](https://www.fiverr.com/rounakk_raaj)
 
 ---
-
-## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rounakkraaj-1744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakkraaj-1744&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+
+### 💭 Engineering Principle
+
+> "Premature optimization is the root of all evil, but knowing when to optimize is the root of all performance."
+
+**Building systems that survive contact with production.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=rounakkraaj-1744&color=orange&style=flat-square)
+
 </div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rounakkraaj-1744&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/rounakk-raaj-745rrs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/rounakk_745" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/rounakk_raaj" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <b>Building systems that don’t collapse when reality hits.</b>
-</p>
